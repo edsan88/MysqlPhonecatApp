@@ -3,17 +3,17 @@
 <hr/>
 <h1>Instructions</h1>
 <h2>I assume before following the steps below. Node JS,Git,Webserver(XAMMPP or WAMP) was successfully installed in your PC. If not, please install them</h2>
-<p><b>Node JS</b> 
+<p><h3>Node JS</h3> 
     <ul><li>https://nodejs.org</li></ul>
 </p>
-<p><b>Git</b> 
+<p><h3>Git</h3> 
 <ul>
     <li><b>for Windows</b> : https://git-scm.com/download/win</li>
     <li><b>for Mac</b> : https://git-scm.com/download/mac</li>
     <li><b>for Linux</b> : https://git-scm.com/download/linux</li>
 </ul>
 </p>
-<p><b>Webserver</b>
+<p><h3>Webserver</h3>
     <ul>
         <li>WAMP - www.wampserver.com/en</li>
         <li>XAMPP - https://www.apachefriends.org</li>
