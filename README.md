@@ -1,4 +1,4 @@
-<h1>Implementing Angular JS powered by GOOGLE</h1>
+<h1>Fetching Remote Data using Angular JS</h1>
 <h1>Instructions</h1>
 <hr/>
 <h2>I assume before following the steps below. Node JS,Git,Webserver(XAMMPP or WAMP) was successfully installed in your PC. If not, please install them</h2>
