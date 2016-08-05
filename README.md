@@ -47,7 +47,9 @@
         <li><b>phone.sql</b></li>
     </ul>
   </li>
-  <li>Copy the entire angular_web folder inside your root directory (www) of your web server.  The path should look like this when viewed on your browse: 'localhost/angular_web'</li>
+  <li>Copy the entire angular_web folder inside your root directory (www) of your web server.  The path should look like this when viewed on your browse: 'localhost/angular_web' <br>
+    <img src=https://github.com/edsan88/MysqlPhonecatApp/blob/master/Screen%20Shot%202016-08-05%20at%208.13.25%20AM.png>
+  </li>
   <li>Open your phpmyadmin. 'localhost/phpmyadmin'</li>
   <li>Create a database name: phone</li>
   <li>Import phone.sql in your phone database</li>
