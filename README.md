@@ -1,7 +1,7 @@
 <h1>Fetching Remote Data using Angular JS</h1>
 <img src=https://github.com/edsan88/MysqlPhonecatApp/blob/master/Screen%20Shot%202016-08-05%20at%208.13.57%20AM.png>
 <hr/>
-<h1>Instructions</h1>
+<h1>Instructions by Eduardo Acheche!</h1>
 <h2>I assume before following the steps below. Node JS,Git,Webserver(XAMMPP or WAMP) was successfully installed in your PC. If not, please install them</h2>
 <p><h3>Node JS</h3> 
     <ul><li>https://nodejs.org</li></ul>
