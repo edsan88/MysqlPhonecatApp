@@ -1,3 +1,4 @@
+<h1>Implementing Angular JS powered by GOOGLE</h1>
 <h1>Instructions</h1>
 <hr/>
 <h2>I assume before following the steps below. Node JS,Git,Webserver(XAMMPP or WAMP) was successfully installed in your PC. If not, please install them</h2>
@@ -19,9 +20,9 @@
 <p>
 <ul>
   <li>Open your Terminal</li>
-  <li>cd C:\</li>
-  <li>mkdir angular</li>
-  <li>cd angular</li>
+  <li><b>cd C:\</b></li>
+  <li><b>mkdir angular</b></li>
+  <li><b>cd angular</b></li>
 </ul>
 </p>
 
@@ -29,7 +30,7 @@
 <p>
 <ul>
   <li>On your terminal clone the repository: git clone https://github.com/edsan88/MysqlPhonecatApp.git</li>
-  <li>Note: Cloned Repo contains 2 Folders: angularjs and angular_web</li>
+  <li>Note: Cloned Repository in your local directory contains 2 Folders: <b>angularjs</b> and <b>angular_web</b></li>
 </ul>
 </p>
 
@@ -39,9 +40,9 @@
   <li>Browse your cloned file: angular_web</li>
   <li>Folder contains:
     <ul>
-        <li>phone.php</li>
-        <li>phone_details.php</li>
-        <li>phone.sql</li>
+        <li><b>phone.php</b></li>
+        <li><b>phone_details.php</b></li>
+        <li><b>phone.sql</b></li>
     </ul>
   </li>
   <li>Copy the entire angular_web folder inside your root directory (www) of your web server.  The path should look like this when viewed on your browse: 'localhost/angular_web'</li>
@@ -56,13 +57,14 @@
     <ul>
         <li>Open your terminal</li>
         <li>cd angular_js</li>
-        <li>execute: npm install -  this will install the dependencies based on package.json file</li>
-        <li>execute: npm start</li>
-        <li>Open your browser: localhost:8000</li>
+        <li>execute: <b>npm install</b> -  this will install the dependencies based on package.json file</li>
+        <li>execute: <b>npm start</b></li>
+        <li>Open your browser and point to address: <b>localhost:8000</b></li>
     </ul>
 </p>
 
 <hr>
 <p>For Questions and Clarifications please send me a message and I will try my best to reply.
-<br>Best Regard: <b>Eduardo Santiago</b> 
+<br>Best Regard: <br>
+<h4>Eduardo Santiago</h4> 
 </p>
