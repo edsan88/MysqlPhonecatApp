@@ -1,5 +1,14 @@
 <h1>Instructions</h1>
 <hr/>
+<h2>I assume before following the steps below. Node JS and Git was successfully installed in your PC. If not, please install them</h2>
+<p>Node JS - https://nodejs.org</p>
+<p>Git 
+<ul>
+    <li>for Windows : https://git-scm.com/download/win</li>
+    <li>for Mac : https://git-scm.com/download/mac</li>
+    <li>for Linux : https://git-scm.com/download/linux</li>
+</ul>
+</p>
 <h2>Step 1. Create a Directory for Cloning</h2>
 <p>
 <ul>
